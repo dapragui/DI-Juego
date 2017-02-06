@@ -1,0 +1,19 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ManualDeClase.chm
+Contents file=tablaContenidos.hhc
+Default Window=name
+Default topic=presentacion.htm
+Display compile progress=No
+Index file=indice.hhk
+Language=0xc0a Español (España, internacional)
+
+[WINDOWS]
+name="Ayuda","tablaContenidos.hhc","indice.hhk","presentacion.htm",,,"Ayuda",,"Ayuda",0x2120,,0xc387e,,,,,,,,0
+
+
+[FILES]
+presentacion.htm
+
+[INFOTYPES]
+

@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="1-Indice de la ayuda">
+		<param name="Local" value="presentacion.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="1.1- Introduci&oacute;n">
+			<param name="Local" value="introduccion.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="2- &iquest;Como jugar?">
+			<param name="Local" value="comoJugar.htm">
+			<param name="Local" value="contenido.htm">
+			<param name="ImageNumber" value="2">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="2.1- Explicaci&oacute;n juego">
+				<param name="Local" value="comoJugar.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="2.2 -Explicaci&oacute;n menus">
+				<param name="Local" value="contenido.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="3- &iquest;Cuando se gana?">
+			<param name="Local" value="ganador.htm">
+			<param name="ImageNumber" value="2">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="3.1- Ganador">
+				<param name="Local" value="ganador.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="3- M&aacute;s ayuda">
+			<param name="Local" value="masAyuda.htm">
+			<param name="ImageNumber" value="9">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="3.1- Obtener ayuda..">
+				<param name="Local" value="masAyuda.htm">
+				<param name="ImageNumber" value="15">
+				</OBJECT>
+		</UL>
+	</UL>
+</UL>
+</BODY></HTML>
